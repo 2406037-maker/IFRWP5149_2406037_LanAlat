@@ -1,0 +1,31 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="PF4O6jsH-NpuGhUtVmYT">
+    <mxGraphModel dx="452" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4fyPUlvllS2rQEOICb5s-4" edge="1" parent="1" source="4fyPUlvllS2rQEOICb5s-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4fyPUlvllS2rQEOICb5s-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4fyPUlvllS2rQEOICb5s-1" parent="1" style="ellipse;fillColor=light-dark(#000000,#000000);html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="320" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4fyPUlvllS2rQEOICb5s-2" parent="1" style="ellipse;html=1;shape=endState;fillColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="320" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="4fyPUlvllS2rQEOICb5s-8" edge="1" parent="1" source="4fyPUlvllS2rQEOICb5s-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4fyPUlvllS2rQEOICb5s-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4fyPUlvllS2rQEOICb5s-3" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));&quot;&gt;Buka daftar Peralatan&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="275" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="4fyPUlvllS2rQEOICb5s-9" edge="1" parent="1" source="4fyPUlvllS2rQEOICb5s-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4fyPUlvllS2rQEOICb5s-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4fyPUlvllS2rQEOICb5s-7" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));&quot;&gt;Lihat Informasi Ketersediaan&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="275" y="340" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
