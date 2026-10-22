@@ -36,17 +36,17 @@ Batas dan asumsi:
 |SIA-UC02|         mengelola jadwal        |  Fungsi utama admin akademik     |
 |SIA-UC03|           Ajukan KRS            |    Fungsi utama mahasiswa        |
 |SIA-UC04|      Periksa validasi KRS       | Perilaku yang disertakan UC03    |
-|SIA-UC05|     unduh bukti pengajuan       |  Tambahan bersyarat pada UC03    |
-|SIA-UC06|   Proses keputusan peminjaman   |  Fungsi utama admin akademik     |
-|SAI-UC07|     Lihat laporan peminjaman    |     Fungsi utama dosen wali      |
+|SIA-UC05|   unduh bukti pengajuan KRS     |  Tambahan bersyarat pada UC03    |
+|SIA-UC06|      Proses keputusan KRS       |     Fungsi utama dosen wali      |
+
 
 
 <!-- relasi include -->
 LAB-UC03 «include» LAB-UC04 
-Alasan: . 
+Alasan: Pengajuan KRS harus diperiksa validitasnya agar sesuai dengan ketentuan akademik.
 
 <!-- relasi extend -->
 LAB-UC05 «extend» LAB-UC03 
 Extension point: Bukti pengajuan tersedia. 
 Kondisi: [mahasiswa memilih unduh]. 
-Alasan:.
+Alasan:.pengajuan tetap berhasil tanpa diunduh.

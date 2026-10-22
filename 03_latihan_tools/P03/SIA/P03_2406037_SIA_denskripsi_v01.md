@@ -1,14 +1,14 @@
 <!-- tabel use case description jadwal -->
-|        Elemen        |                        LAB-UC03—Ajukan peminjaman                        |
+|        Elemen        |                            LAB-UC03—Ajukan KRS                           |
 |----------------------|--------------------------------------------------------------------------|
-|        Tujuan        |             Menghasilkan pengajuan peminjaman yang tersimpan             |
+|        Tujuan        |                   Menghasilkan pengajuan KRS yang tersimpan              |
 |      Aktorutama      |                                Mahasiswa                                 |
-|    Sumberkebutuhan   |                           LAB-R03 dan LAB-R04                            |
-|        Pemicu        |              Mahasiswa memilih fungsi pengajuan peminjaman               |
-|      Prasyarat       |         Mahasiswa telah terautentikasi; data peralatan tersedia          |
+|    Sumberkebutuhan   |                     SIA-R03, SIA-R04 dan SIA-R05                         |
+|        Pemicu        |                 Mahasiswa memilih fungsi pengajuan KRS                   |
+|      Prasyarat       |             Mahasiswa telah terautentikasi; data KRS tersedia            |
 | Pascakondisi berhasil|     Pengajuan tersimpan dengan nomor dan status Menunggu keputusan       |
 |  Pascakondis  gagal  |             Tidak ada pengajuan baru yang berhasil tersimpan             |
-|        Include       |                     LAB-UC04 — Periksa ketersediaan                      |
+|        Include       |                     SIA-UC04 — Periksa ketersediaan                      |
 |    Extensionpoint    |                 Bukti pengajuan tersedia, pada langkah 6                 |
-|        Extend        |                 LAB-UC05 jika [mahasiswa memilih cetak]                  |
+|        Extend        |                 SIA-UC05 jika [mahasiswa memilih unduh]                  |
 
