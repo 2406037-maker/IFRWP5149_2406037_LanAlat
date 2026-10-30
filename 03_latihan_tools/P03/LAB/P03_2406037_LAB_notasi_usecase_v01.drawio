@@ -8,13 +8,13 @@
           <mxGeometry height="720" width="450" x="210" y="160" as="geometry" />
         </mxCell>
         <mxCell id="onzldzcXh8QzSwlEQNvt-6" parent="onzldzcXh8QzSwlEQNvt-1" style="ellipse;html=1;whiteSpace=wrap;" value="Lihat&lt;div&gt;kertesediaan&lt;/div&gt;&lt;div&gt;peralatan&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="90" x="57" y="256" as="geometry" />
+          <mxGeometry height="50" width="90" x="50" y="450" as="geometry" />
         </mxCell>
         <mxCell id="onzldzcXh8QzSwlEQNvt-7" parent="onzldzcXh8QzSwlEQNvt-1" style="ellipse;html=1;whiteSpace=wrap;" value="Kelola data&lt;br&gt;&lt;div&gt;peralatan&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="90" x="320" y="100" as="geometry" />
         </mxCell>
         <mxCell id="W_KO-cXSVflOzzWnUYCP-1" parent="onzldzcXh8QzSwlEQNvt-1" style="ellipse;html=1;whiteSpace=wrap;" value="Cetak bukti pengajuan" vertex="1">
-          <mxGeometry height="50" width="90" x="57" y="510" as="geometry" />
+          <mxGeometry height="50" width="90" x="57" y="198" as="geometry" />
         </mxCell>
         <mxCell id="W_KO-cXSVflOzzWnUYCP-2" parent="onzldzcXh8QzSwlEQNvt-1" style="ellipse;html=1;whiteSpace=wrap;" value="Ajukan Peminjaman" vertex="1">
           <mxGeometry height="50" width="90" x="57" y="345" as="geometry" />
@@ -34,8 +34,8 @@
             <mxPoint x="240" y="231" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W_KO-cXSVflOzzWnUYCP-15" edge="1" parent="onzldzcXh8QzSwlEQNvt-1" source="W_KO-cXSVflOzzWnUYCP-1" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="W_KO-cXSVflOzzWnUYCP-2" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
-          <mxGeometry relative="1" width="160" x="-0.6" y="-35" as="geometry">
+        <mxCell id="W_KO-cXSVflOzzWnUYCP-15" edge="1" parent="onzldzcXh8QzSwlEQNvt-1" source="W_KO-cXSVflOzzWnUYCP-1" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="W_KO-cXSVflOzzWnUYCP-2" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" x="-0.1418" y="-17" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="157" y="371" as="sourcePoint" />
             <mxPoint x="317" y="371" as="targetPoint" />
@@ -110,7 +110,7 @@
         <mxCell id="W_KO-cXSVflOzzWnUYCP-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Kepala&lt;br&gt;&lt;div&gt;Laboran&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="30" x="740" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="W_KO-cXSVflOzzWnUYCP-8" edge="1" parent="1" source="onzldzcXh8QzSwlEQNvt-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="W_KO-cXSVflOzzWnUYCP-1">
+        <mxCell id="W_KO-cXSVflOzzWnUYCP-8" edge="1" parent="1" source="gSlfxbke2-tbUSYl2t8a-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="W_KO-cXSVflOzzWnUYCP-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="155" y="400" as="sourcePoint" />
             <mxPoint x="280" y="335" as="targetPoint" />
