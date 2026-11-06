@@ -12,3 +12,6 @@
 | 10 | LAB-UC10      | Hapus Data Peralatan         | Diisi sesuai diagram   | Belum diperiksa   |
 | 11 | LAB-UC11      | Catat Pengembalian Peralatan | Diisi sesuai diagram   | Belum diperiksa   |
 | 12 | LAB-UC12      | Periksa Kondisi Peralatan    | Diisi sesuai diagram   | Belum diperiksa   |
+
+
+cobs
